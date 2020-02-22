@@ -1,6 +1,6 @@
 """
 Program: generator.py
-Author: SamTj
+Author: Samuel Tijani
 Generates and displays sentences using simple grammar
 and vocabulary.  Words are chosen at random.
 """
